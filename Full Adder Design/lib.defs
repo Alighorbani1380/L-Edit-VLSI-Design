@@ -1,0 +1,4 @@
+DEFINE Tamrin1 Tamrin1
+ASSIGN Tamrin1 libMode shared
+DEFINE FullAdder FullAdder
+ASSIGN FullAdder libMode shared
