@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      Datis
+HostName                       LAPTOP-6F32430O
+ProcessIdentifier              28888
+ProcessCreationTime_UTC        1687426146
+ProcessCreationTime_Readable   06/22/23 12:59:06 Iran Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\Datis\Desktop\Moghavemat\Moghavemat\tech.db.cdslck
+TimeEditLocked                 06/22/23 12:59:11 Iran Standard Time
